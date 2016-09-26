@@ -2,7 +2,7 @@
 title: Beginner's guide to data science.
 description: Helping you get started with machine learning.
 baseurl: "/datascienceblog" # the subpath of your site, e.g. /blog
-url: "http://punkstats.com/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://punkstats.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: punkstats
